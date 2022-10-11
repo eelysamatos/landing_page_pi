@@ -1,0 +1,57 @@
+.logo1 {
+  height: 60px;
+  border-radius: 45%;
+  margin-left: 10px;
+}
+.imagem-carrossel-um {
+  height: 400px;
+  object-position: 0 31%;
+  object-fit: cover;
+}
+.imagem-carrossel-dois {
+  height: 400px;
+  object-position: 0 38%;
+  object-fit: cover;
+}
+.imagem-carrossel-tres {
+  height: 400px;
+  object-position: 0 40%;
+  object-fit: cover;
+}
+
+.fonte-titulo-logo {
+  font-family: 'pacifico';
+}
+
+.fonte-titulo {
+  font-family: 'fira sans';
+}
+
+.btn.botao-cor-especial {
+  background-color: rgb(68, 25, 187);
+  color: rgb(255, 255, 255);
+}
+.borda-cor-especial {
+  border-color: purple;
+  border-radius: 5%
+}
+
+.card-posicao-imagem  {
+  height: 300px;
+  /*object-position: 0 50%;*/
+  object-fit: cover;
+  border-radius: 8%;
+}
+.card-posicao-imagem2  {
+  height: 200px;
+  /*object-position: 0 50%;*/
+  object-fit: cover;
+  border-radius: 8%;
+}
+.card-largura{
+  max-width: 18rem;
+}
+.card-largura2{
+  max-width: 24.9rem;
+}
+
